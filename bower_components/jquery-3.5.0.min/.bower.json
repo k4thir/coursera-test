@@ -1,0 +1,15 @@
+{
+  "name": "jquery-3.5.0.min",
+  "_cacheHeaders": {
+    "ETag": "W/\"5e908f98-15d95\"",
+    "Last-Modified": "Fri, 10 Apr 2020 15:24:08 GMT",
+    "Content-Length": "30880",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "_release": "e-tag:W/\"5e908f9",
+  "main": "index.js",
+  "_source": "https://code.jquery.com/jquery-3.5.0.min.js",
+  "_target": "*",
+  "_originalSource": "https://code.jquery.com/jquery-3.5.0.min.js",
+  "_direct": true
+}
